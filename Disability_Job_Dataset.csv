@@ -1,0 +1,502 @@
+ID,Sex,Age,Income,Experience,Disability Type,Job Title,Score,Eligibility,Apply Date
+1,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,07-10-2021
+2,Male,45,80829,19,Learning Disability,Construction Worker,45,1,07-08-2021
+3,Female,39,92787,22,Psychiatric Disability,Artist,34,0,02-09-2021
+4,Female,55,61667,38,Deaf/Hard of Hearing,Mechanic,26,1,15-08-2022
+5,Male,58,52209,21,Traumatic Brain Injury,Library Clerk,12,0,28-01-2021
+6,Male,45,50657,18,Psychiatric Disability,Artist,23,0,30-10-2021
+7,Female,34,72828,7,Intellectual/Developmental Disability,Food Service Worker,43,1,31-08-2021
+8,Male,39,34508,16,Traumatic Brain Injury,Library Clerk,45,1,04-11-2022
+9,Male,39,34421,12,Physical Disability,Telemarketer,43,1,11-03-2022
+10,Female,55,38333,17,Physical Disability,Teacher,56,0,17-02-2022
+11,Male,37,90537,9,Traumatic Brain Injury,Library Clerk,54,1,03-03-2021
+12,Female,44,64511,22,Psychiatric Disability,Artist,34,0,27-08-2021
+13,Male,54,88530,14,Traumatic Brain Injury,Library Clerk,32,0,24-12-2022
+14,Male,50,65674,13,Blind/Visually Impaired,Customer Service Representative,43,0,07-12-2021
+15,Male,21,37892,2,Physical Disability,Teacher,56,0,05-09-2022
+16,Male,29,34349,6,Traumatic Brain Injury,Library Clerk,75,1,06-12-2022
+17,Female,38,46983,14,Cognitive Impairment,Data Entry Clerk,23,0,27-11-2022
+18,Male,50,70331,18,Intellectual/Developmental Disability,Gardener,45,0,21-05-2021
+19,Female,23,61240,2,Psychiatric Disability,Artist,64,1,23-09-2022
+20,Female,19,38157,0,Intellectual/Developmental Disability,Landscaper,34,1,13-09-2022
+21,Male,43,86984,5,Intellectual/Developmental Disability,Warehouse Worker,22,1,27-12-2021
+22,Female,50,53632,29,Intellectual/Developmental Disability,Landscaper,25,1,04-09-2022
+23,Female,38,68109,8,Deaf/Hard of Hearing,Architect,14,0,24-09-2022
+24,Male,20,92588,0,Physical Disability,Tutor,53,0,03-07-2022
+25,Male,50,72356,25,Cognitive Impairment,Janitorial Services,24,0,21-10-2021
+26,Female,54,72439,31,Intellectual/Developmental Disability,Gardener,54,1,07-09-2021
+27,Male,38,52719,8,Deaf/Hard of Hearing,Craftsperson,23,0,13-05-2021
+28,Male,21,53599,1,Cognitive Impairment,Retail Worker,34,1,09-05-2022
+29,Female,51,53803,29,Deaf/Hard of Hearing,Artist,23,1,02-04-2021
+30,Male,20,65152,0,Psychiatric Disability,Artist,5,0,15-08-2021
+31,Male,51,55473,27,Deaf/Hard of Hearing,Artist,32,1,27-06-2021
+32,Male,19,72859,0,Blind/Visually Impaired,Massage Therapist,43,1,02-02-2021
+33,Male,34,56384,17,Traumatic Brain Injury,Library Clerk,13,0,16-10-2021
+34,Female,53,79106,26,Intellectual/Developmental Disability,Gardener,25,1,07-06-2022
+35,Female,59,66327,25,Blind/Visually Impaired,Massage Therapist,46,0,05-03-2022
+36,Female,55,39146,20,Intellectual/Developmental Disability,Landscaper,23,0,16-06-2022
+37,Female,40,71285,12,Traumatic Brain Injury,Library Clerk,1,1,22-09-2022
+38,Female,40,75003,15,Cognitive Impairment,Manufacturing Worker,21,1,25-02-2021
+39,Female,40,81358,12,Psychiatric Disability,Artist,13,1,25-02-2021
+40,Male,36,61636,10,Traumatic Brain Injury,Library Clerk,32,0,23-06-2021
+41,Female,24,87628,1,Traumatic Brain Injury,Library Clerk,6,1,04-04-2022
+42,Male,24,73399,2,Physical Disability,Teacher,21,0,09-07-2021
+43,Male,58,39699,26,Cognitive Impairment,Animal Caretaker,87,0,05-06-2021
+44,Female,21,34926,1,Learning Disability,Construction Worker,45,0,14-06-2021
+45,Female,25,55526,2,Deaf/Hard of Hearing,Architect,87,0,12-11-2021
+46,Male,33,67311,12,Blind/Visually Impaired,Music Teacher,45,1,17-01-2022
+47,Male,49,87126,17,Learning Disability,Construction Worker,34,0,24-10-2022
+48,Female,21,99162,1,Intellectual/Developmental Disability,Warehouse Worker,26,0,15-05-2022
+49,Male,18,72133,0,Psychiatric Disability,Artist,84,1,12-11-2022
+50,Male,56,42113,30,Deaf/Hard of Hearing,Craftsperson,23,1,26-02-2022
+51,Male,41,49549,13,Psychiatric Disability,Artist,43,1,15-07-2021
+52,Female,24,55389,1,Intellectual/Developmental Disability,Food Service Worker,45,1,05-07-2022
+53,Male,34,55426,10,Traumatic Brain Injury,Library Clerk,43,0,23-12-2022
+54,Female,34,96196,12,Intellectual/Developmental Disability,Food Service Worker,56,0,07-01-2021
+55,Male,28,45645,4,Physical Disability,Tutor,54,0,26-09-2021
+56,Male,46,46362,18,Physical Disability,Teacher,34,1,21-07-2022
+57,Female,52,85982,22,Cognitive Impairment,Janitorial Services,32,0,19-09-2022
+58,Male,23,98269,1,Cognitive Impairment,Data Entry Clerk,43,1,21-08-2022
+59,Female,53,87625,30,Physical Disability,Teacher,56,1,11-11-2022
+60,Male,49,39360,21,Intellectual/Developmental Disability,Warehouse Worker,75,0,13-02-2022
+61,Male,56,76003,19,Psychiatric Disability,Artist,23,1,10-07-2021
+62,Female,50,44373,21,Traumatic Brain Injury,Library Clerk,45,1,01-09-2021
+63,Male,58,69310,26,Physical Disability,Telemarketer,64,0,27-07-2021
+64,Male,40,83425,16,Traumatic Brain Injury,Library Clerk,34,1,28-02-2022
+65,Female,46,85648,16,Blind/Visually Impaired,Music Teacher,22,0,29-10-2021
+66,Male,60,36985,30,Deaf/Hard of Hearing,Software Developer,25,0,06-03-2022
+67,Male,46,33919,18,Intellectual/Developmental Disability,Landscaper,13,1,27-09-2022
+68,Female,41,70203,22,Physical Disability,Teacher,45,1,02-04-2021
+69,Male,42,30820,19,Intellectual/Developmental Disability,Landscaper,34,1,28-12-2022
+70,Female,49,89259,17,Psychiatric Disability,Artist,26,0,09-03-2022
+71,Female,24,94697,2,Deaf/Hard of Hearing,Software Developer,11,1,21-11-2021
+72,Female,25,82787,3,Cognitive Impairment,Animal Caretaker,23,0,16-03-2022
+73,Male,19,37123,0,Blind/Visually Impaired,Music Teacher,43,0,23-03-2021
+74,Female,25,79893,2,Intellectual/Developmental Disability,Warehouse Worker,45,0,12-03-2021
+75,Female,39,98301,10,Physical Disability,Telemarketer,43,0,03-12-2021
+76,Male,23,37365,1,Learning Disability,Construction Worker,56,1,06-10-2022
+77,Female,18,79953,0,Cognitive Impairment,Janitorial Services,54,0,24-02-2022
+78,Female,43,83528,21,Deaf/Hard of Hearing,Architect,34,0,05-01-2021
+79,Male,27,95571,5,Learning Disability,Construction Worker,32,1,02-03-2022
+80,Male,48,96603,23,Deaf/Hard of Hearing,Accountant,43,1,18-07-2021
+81,Female,39,67419,12,Psychiatric Disability,Artist,56,1,26-08-2021
+82,Male,34,56648,13,Blind/Visually Impaired,Massage Therapist,75,1,15-02-2022
+83,Male,38,56649,20,Physical Disability,Telemarketer,23,0,27-09-2021
+84,Male,39,52587,10,Psychiatric Disability,Artist,45,0,14-09-2022
+85,Male,34,95093,10,Traumatic Brain Injury,Library Clerk,64,0,03-02-2021
+86,Female,27,98787,5,Cognitive Impairment,Manufacturing Worker,34,1,01-04-2022
+87,Female,39,85732,12,Intellectual/Developmental Disability,Landscaper,22,0,29-04-2021
+88,Female,28,74320,5,Cognitive Impairment,Manufacturing Worker,25,1,21-08-2021
+89,Female,18,89643,0,Psychiatric Disability,Artist,14,1,29-11-2021
+90,Male,18,46791,0,Intellectual/Developmental Disability,Food Service Worker,53,0,08-08-2021
+91,Female,23,94572,1,Traumatic Brain Injury,Library Clerk,24,1,14-10-2022
+92,Female,32,97048,8,Learning Disability,Construction Worker,54,1,09-03-2022
+93,Male,34,65297,9,Psychiatric Disability,Artist,23,0,01-06-2021
+94,Female,19,42147,0,Intellectual/Developmental Disability,Gardener,34,0,21-08-2022
+95,Male,59,67612,30,Deaf/Hard of Hearing,Architect,23,1,05-12-2022
+96,Male,22,56023,1,Psychiatric Disability,Artist,5,0,17-03-2021
+97,Female,31,31349,10,Blind/Visually Impaired,Customer Service Representative,56,1,25-05-2021
+98,Female,51,78701,30,Physical Disability,Tutor,43,1,13-03-2021
+99,Male,43,30034,20,Psychiatric Disability,Artist,13,1,31-12-2021
+100,Female,21,67559,2,Blind/Visually Impaired,Musician,25,0,29-07-2021
+101,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,01-01-2023
+102,Male,45,80829,19,Learning Disability,Construction Worker,45,1,02-01-2023
+103,Female,39,92787,22,Psychiatric Disability,Artist,34,0,03-01-2023
+104,Female,55,61667,38,Deaf/Hard of Hearing,Mechanic,26,1,04-01-2023
+105,Male,58,52209,21,Traumatic Brain Injury,Library Clerk,12,0,05-01-2023
+106,Male,45,50657,18,Psychiatric Disability,Artist,23,0,06-01-2023
+107,Female,34,72828,7,Intellectual/Developmental Disability,Food Service Worker,43,1,07-01-2023
+108,Male,39,34508,16,Traumatic Brain Injury,Library Clerk,45,1,08-01-2023
+109,Male,39,34421,12,Physical Disability,Telemarketer,43,1,09-01-2023
+110,Female,55,38333,17,Physical Disability,Teacher,56,0,10-01-2023
+111,Male,37,90537,9,Traumatic Brain Injury,Library Clerk,54,1,11-01-2023
+112,Female,44,64511,22,Psychiatric Disability,Artist,34,0,12-01-2023
+113,Male,54,88530,14,Traumatic Brain Injury,Library Clerk,32,0,13-01-2023
+114,Male,50,65674,13,Blind/Visually Impaired,Customer Service Representative,43,0,14-01-2023
+115,Male,21,37892,2,Physical Disability,Teacher,56,0,15-01-2023
+116,Male,29,34349,6,Traumatic Brain Injury,Library Clerk,75,1,16-01-2023
+117,Female,38,46983,14,Cognitive Impairment,Data Entry Clerk,23,0,17-01-2023
+118,Male,50,70331,18,Intellectual/Developmental Disability,Gardener,45,0,18-01-2023
+119,Female,23,61240,2,Psychiatric Disability,Artist,64,1,19-01-2023
+120,Female,19,38157,0,Intellectual/Developmental Disability,Landscaper,34,1,20-01-2023
+121,Male,43,86984,5,Intellectual/Developmental Disability,Warehouse Worker,22,1,21-01-2023
+122,Female,50,53632,29,Intellectual/Developmental Disability,Landscaper,25,1,22-01-2023
+123,Female,38,68109,8,Deaf/Hard of Hearing,Architect,14,0,23-01-2023
+124,Male,20,92588,0,Physical Disability,Tutor,53,0,24-01-2023
+125,Male,50,72356,25,Cognitive Impairment,Janitorial Services,24,0,25-01-2023
+126,Female,54,72439,31,Intellectual/Developmental Disability,Gardener,54,1,26-01-2023
+127,Male,38,52719,8,Deaf/Hard of Hearing,Craftsperson,23,0,27-01-2023
+128,Male,21,53599,1,Cognitive Impairment,Retail Worker,34,1,28-01-2023
+129,Female,51,53803,29,Deaf/Hard of Hearing,Artist,23,1,29-01-2023
+130,Male,20,65152,0,Psychiatric Disability,Artist,5,0,30-01-2023
+131,Male,51,55473,27,Deaf/Hard of Hearing,Artist,32,1,31-01-2023
+132,Male,19,72859,0,Blind/Visually Impaired,Massage Therapist,43,1,01-02-2023
+133,Male,34,56384,17,Traumatic Brain Injury,Library Clerk,13,0,02-02-2023
+134,Female,53,79106,26,Intellectual/Developmental Disability,Gardener,25,1,03-02-2023
+135,Female,59,66327,25,Blind/Visually Impaired,Massage Therapist,46,0,04-02-2023
+136,Female,55,39146,20,Intellectual/Developmental Disability,Landscaper,23,0,05-02-2023
+137,Female,40,71285,12,Traumatic Brain Injury,Library Clerk,1,1,06-02-2023
+138,Female,40,75003,15,Cognitive Impairment,Manufacturing Worker,21,1,07-02-2023
+139,Female,40,81358,12,Psychiatric Disability,Artist,13,1,08-02-2023
+140,Male,36,61636,10,Traumatic Brain Injury,Library Clerk,32,0,09-02-2023
+141,Female,24,87628,1,Traumatic Brain Injury,Library Clerk,6,1,10-02-2023
+142,Male,24,73399,2,Physical Disability,Teacher,21,0,11-02-2023
+143,Male,58,39699,26,Cognitive Impairment,Animal Caretaker,87,0,12-02-2023
+144,Female,21,34926,1,Learning Disability,Construction Worker,45,0,13-02-2023
+145,Female,25,55526,2,Deaf/Hard of Hearing,Architect,87,0,14-02-2023
+146,Male,33,67311,12,Blind/Visually Impaired,Music Teacher,45,1,15-02-2023
+147,Male,49,87126,17,Learning Disability,Construction Worker,34,0,16-02-2023
+148,Female,21,99162,1,Intellectual/Developmental Disability,Warehouse Worker,26,0,17-02-2023
+149,Male,18,72133,0,Psychiatric Disability,Artist,84,1,18-02-2023
+150,Male,56,42113,30,Deaf/Hard of Hearing,Craftsperson,23,1,19-02-2023
+151,Male,41,49549,13,Psychiatric Disability,Artist,43,1,20-02-2023
+152,Female,24,55389,1,Intellectual/Developmental Disability,Food Service Worker,45,1,21-02-2023
+153,Male,34,55426,10,Traumatic Brain Injury,Library Clerk,43,0,22-02-2023
+154,Female,34,96196,12,Intellectual/Developmental Disability,Food Service Worker,56,0,23-02-2023
+155,Male,28,45645,4,Physical Disability,Tutor,54,0,24-02-2023
+156,Male,46,46362,18,Physical Disability,Teacher,34,1,25-02-2023
+157,Female,52,85982,22,Cognitive Impairment,Janitorial Services,32,0,26-02-2023
+158,Male,23,98269,1,Cognitive Impairment,Data Entry Clerk,43,1,27-02-2023
+159,Female,53,87625,30,Physical Disability,Teacher,56,1,28-02-2023
+160,Male,49,39360,21,Intellectual/Developmental Disability,Warehouse Worker,75,0,01-03-2023
+161,Male,56,76003,19,Psychiatric Disability,Artist,23,1,02-03-2023
+162,Female,50,44373,21,Traumatic Brain Injury,Library Clerk,45,1,03-03-2023
+163,Male,58,69310,26,Physical Disability,Telemarketer,64,0,04-03-2023
+164,Male,40,83425,16,Traumatic Brain Injury,Library Clerk,34,1,05-03-2023
+165,Female,46,85648,16,Blind/Visually Impaired,Music Teacher,22,0,06-03-2023
+166,Male,60,36985,30,Deaf/Hard of Hearing,Software Developer,25,0,07-03-2023
+167,Male,46,33919,18,Intellectual/Developmental Disability,Landscaper,13,1,08-03-2023
+168,Female,41,70203,22,Physical Disability,Teacher,45,1,09-03-2023
+169,Male,42,30820,19,Intellectual/Developmental Disability,Landscaper,34,1,10-03-2023
+170,Female,49,89259,17,Psychiatric Disability,Artist,26,0,11-03-2023
+171,Female,24,94697,2,Deaf/Hard of Hearing,Software Developer,11,1,12-03-2023
+172,Female,25,82787,3,Cognitive Impairment,Animal Caretaker,23,0,13-03-2023
+173,Male,19,37123,0,Blind/Visually Impaired,Music Teacher,43,0,14-03-2023
+174,Female,25,79893,2,Intellectual/Developmental Disability,Warehouse Worker,45,0,15-03-2023
+175,Female,39,98301,10,Physical Disability,Telemarketer,43,0,16-03-2023
+176,Male,23,37365,1,Learning Disability,Construction Worker,56,1,17-03-2023
+177,Female,18,79953,0,Cognitive Impairment,Janitorial Services,54,0,18-03-2023
+178,Female,43,83528,21,Deaf/Hard of Hearing,Architect,34,0,19-03-2023
+179,Male,27,95571,5,Learning Disability,Construction Worker,32,1,20-03-2023
+180,Male,48,96603,23,Deaf/Hard of Hearing,Accountant,43,1,21-03-2023
+181,Female,39,67419,12,Psychiatric Disability,Artist,56,1,22-03-2023
+182,Male,34,56648,13,Blind/Visually Impaired,Massage Therapist,75,1,23-03-2023
+183,Male,38,56649,20,Physical Disability,Telemarketer,23,0,24-03-2023
+184,Male,39,52587,10,Psychiatric Disability,Artist,45,0,25-03-2023
+185,Male,34,95093,10,Traumatic Brain Injury,Library Clerk,64,0,26-03-2023
+186,Female,27,98787,5,Cognitive Impairment,Manufacturing Worker,34,1,27-03-2023
+187,Female,39,85732,12,Intellectual/Developmental Disability,Landscaper,22,0,28-03-2023
+188,Female,28,74320,5,Cognitive Impairment,Manufacturing Worker,25,1,29-03-2023
+189,Female,18,89643,0,Psychiatric Disability,Artist,14,1,30-03-2023
+190,Male,18,46791,0,Intellectual/Developmental Disability,Food Service Worker,53,0,31-03-2023
+191,Female,23,94572,1,Traumatic Brain Injury,Library Clerk,24,1,01-04-2023
+192,Female,32,97048,8,Learning Disability,Construction Worker,54,1,02-04-2023
+193,Male,34,65297,9,Psychiatric Disability,Artist,23,0,03-04-2023
+194,Female,19,42147,0,Intellectual/Developmental Disability,Gardener,34,0,04-04-2023
+195,Male,59,67612,30,Deaf/Hard of Hearing,Architect,23,1,05-04-2023
+196,Male,22,56023,1,Psychiatric Disability,Artist,5,0,06-04-2023
+197,Female,31,31349,10,Blind/Visually Impaired,Customer Service Representative,56,1,07-04-2023
+198,Female,51,78701,30,Physical Disability,Tutor,43,1,08-04-2023
+199,Male,43,30034,20,Psychiatric Disability,Artist,13,1,09-04-2023
+200,Female,21,67559,2,Blind/Visually Impaired,Musician,25,0,10-04-2023
+201,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,11-04-2023
+202,Male,45,80829,19,Learning Disability,Construction Worker,45,1,12-04-2023
+203,Female,39,92787,22,Psychiatric Disability,Artist,34,0,13-04-2023
+204,Female,55,61667,38,Deaf/Hard of Hearing,Mechanic,26,1,14-04-2023
+205,Male,58,52209,21,Traumatic Brain Injury,Library Clerk,12,0,15-04-2023
+206,Male,45,50657,18,Psychiatric Disability,Artist,23,0,16-04-2023
+207,Female,34,72828,7,Intellectual/Developmental Disability,Food Service Worker,43,1,17-04-2023
+208,Male,39,34508,16,Traumatic Brain Injury,Library Clerk,45,1,18-04-2023
+209,Male,39,34421,12,Physical Disability,Telemarketer,43,1,19-04-2023
+210,Female,55,38333,17,Physical Disability,Teacher,56,0,20-04-2023
+211,Male,37,90537,9,Traumatic Brain Injury,Library Clerk,54,1,21-04-2023
+212,Female,44,64511,22,Psychiatric Disability,Artist,34,0,22-04-2023
+213,Male,54,88530,14,Traumatic Brain Injury,Library Clerk,32,0,23-04-2023
+214,Male,50,65674,13,Blind/Visually Impaired,Customer Service Representative,43,0,24-04-2023
+215,Male,21,37892,2,Physical Disability,Teacher,56,0,25-04-2023
+216,Male,29,34349,6,Traumatic Brain Injury,Library Clerk,75,1,26-04-2023
+217,Female,38,46983,14,Cognitive Impairment,Data Entry Clerk,23,0,27-04-2023
+218,Male,50,70331,18,Intellectual/Developmental Disability,Gardener,45,0,28-04-2023
+219,Female,23,61240,2,Psychiatric Disability,Artist,64,1,29-04-2023
+220,Female,19,38157,0,Intellectual/Developmental Disability,Landscaper,34,1,30-04-2023
+221,Male,43,86984,5,Intellectual/Developmental Disability,Warehouse Worker,22,1,01-05-2023
+222,Female,50,53632,29,Intellectual/Developmental Disability,Landscaper,25,1,02-05-2023
+223,Female,38,68109,8,Deaf/Hard of Hearing,Architect,14,0,03-05-2023
+224,Male,20,92588,0,Physical Disability,Tutor,53,0,04-05-2023
+225,Male,50,72356,25,Cognitive Impairment,Janitorial Services,24,0,05-05-2023
+226,Female,54,72439,31,Intellectual/Developmental Disability,Gardener,54,1,06-05-2023
+227,Male,38,52719,8,Deaf/Hard of Hearing,Craftsperson,23,0,07-05-2023
+228,Male,21,53599,1,Cognitive Impairment,Retail Worker,34,1,08-05-2023
+229,Female,51,53803,29,Deaf/Hard of Hearing,Artist,23,1,09-05-2023
+230,Male,20,65152,0,Psychiatric Disability,Artist,5,0,10-05-2023
+231,Male,51,55473,27,Deaf/Hard of Hearing,Artist,32,1,11-05-2023
+232,Male,19,72859,0,Blind/Visually Impaired,Massage Therapist,43,1,12-05-2023
+233,Male,34,56384,17,Traumatic Brain Injury,Library Clerk,13,0,13-05-2023
+234,Female,53,79106,26,Intellectual/Developmental Disability,Gardener,25,1,14-05-2023
+235,Female,59,66327,25,Blind/Visually Impaired,Massage Therapist,46,0,15-05-2023
+236,Female,55,39146,20,Intellectual/Developmental Disability,Landscaper,23,0,16-05-2023
+237,Female,40,71285,12,Traumatic Brain Injury,Library Clerk,1,1,17-05-2023
+238,Female,40,75003,15,Cognitive Impairment,Manufacturing Worker,21,1,18-05-2023
+239,Female,40,81358,12,Psychiatric Disability,Artist,13,1,19-05-2023
+240,Male,36,61636,10,Traumatic Brain Injury,Library Clerk,32,0,20-05-2023
+241,Female,24,87628,1,Traumatic Brain Injury,Library Clerk,6,1,21-05-2023
+242,Male,24,73399,2,Physical Disability,Teacher,21,0,22-05-2023
+243,Male,58,39699,26,Cognitive Impairment,Animal Caretaker,87,0,23-05-2023
+244,Female,21,34926,1,Learning Disability,Construction Worker,45,0,24-05-2023
+245,Female,25,55526,2,Deaf/Hard of Hearing,Architect,87,0,25-05-2023
+246,Male,33,67311,12,Blind/Visually Impaired,Music Teacher,45,1,26-05-2023
+247,Male,49,87126,17,Learning Disability,Construction Worker,34,0,27-05-2023
+248,Female,21,99162,1,Intellectual/Developmental Disability,Warehouse Worker,26,0,28-05-2023
+249,Male,18,72133,0,Psychiatric Disability,Artist,84,1,29-05-2023
+250,Male,56,42113,30,Deaf/Hard of Hearing,Craftsperson,23,1,30-05-2023
+251,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,31-05-2023
+252,Male,45,80829,19,Learning Disability,Construction Worker,45,1,01-06-2023
+253,Female,39,92787,22,Psychiatric Disability,Artist,34,0,02-06-2023
+254,Female,55,61667,38,Deaf/Hard of Hearing,Mechanic,26,1,03-06-2023
+255,Male,58,52209,21,Traumatic Brain Injury,Library Clerk,12,0,04-06-2023
+256,Male,45,50657,18,Psychiatric Disability,Artist,23,0,05-06-2023
+257,Female,34,72828,7,Intellectual/Developmental Disability,Food Service Worker,43,1,06-06-2023
+258,Male,39,34508,16,Traumatic Brain Injury,Library Clerk,45,1,07-06-2023
+259,Male,39,34421,12,Physical Disability,Telemarketer,43,1,08-06-2023
+260,Female,55,38333,17,Physical Disability,Teacher,56,0,09-06-2023
+261,Male,37,90537,9,Traumatic Brain Injury,Library Clerk,54,1,10-06-2023
+262,Female,44,64511,22,Psychiatric Disability,Artist,34,0,11-06-2023
+263,Male,54,88530,14,Traumatic Brain Injury,Library Clerk,32,0,12-06-2023
+264,Male,50,65674,13,Blind/Visually Impaired,Customer Service Representative,43,0,13-06-2023
+265,Male,21,37892,2,Physical Disability,Teacher,56,0,14-06-2023
+266,Male,29,34349,6,Traumatic Brain Injury,Library Clerk,75,1,15-06-2023
+267,Female,38,46983,14,Cognitive Impairment,Data Entry Clerk,23,0,16-06-2023
+268,Male,50,70331,18,Intellectual/Developmental Disability,Gardener,45,0,17-06-2023
+269,Female,23,61240,2,Psychiatric Disability,Artist,64,1,18-06-2023
+270,Female,19,38157,0,Intellectual/Developmental Disability,Landscaper,34,1,19-06-2023
+271,Male,43,86984,5,Intellectual/Developmental Disability,Warehouse Worker,22,1,20-06-2023
+272,Female,50,53632,29,Intellectual/Developmental Disability,Landscaper,25,1,21-06-2023
+273,Female,38,68109,8,Deaf/Hard of Hearing,Architect,14,0,22-06-2023
+274,Male,20,92588,0,Physical Disability,Tutor,53,0,23-06-2023
+275,Male,50,72356,25,Cognitive Impairment,Janitorial Services,24,0,24-06-2023
+276,Female,54,72439,31,Intellectual/Developmental Disability,Gardener,54,1,25-06-2023
+277,Male,38,52719,8,Deaf/Hard of Hearing,Craftsperson,23,0,26-06-2023
+278,Male,21,53599,1,Cognitive Impairment,Retail Worker,34,1,27-06-2023
+279,Female,51,53803,29,Deaf/Hard of Hearing,Artist,23,1,28-06-2023
+280,Male,20,65152,0,Psychiatric Disability,Artist,5,0,29-06-2023
+281,Male,51,55473,27,Deaf/Hard of Hearing,Artist,32,1,30-06-2023
+282,Male,19,72859,0,Blind/Visually Impaired,Massage Therapist,43,1,01-07-2023
+283,Male,34,56384,17,Traumatic Brain Injury,Library Clerk,13,0,02-07-2023
+284,Female,53,79106,26,Intellectual/Developmental Disability,Gardener,25,1,03-07-2023
+285,Female,59,66327,25,Blind/Visually Impaired,Massage Therapist,46,0,04-07-2023
+286,Female,55,39146,20,Intellectual/Developmental Disability,Landscaper,23,0,05-07-2023
+287,Female,40,71285,12,Traumatic Brain Injury,Library Clerk,1,1,06-07-2023
+288,Female,40,75003,15,Cognitive Impairment,Manufacturing Worker,21,1,07-07-2023
+289,Female,40,81358,12,Psychiatric Disability,Artist,13,1,08-07-2023
+290,Male,36,61636,10,Traumatic Brain Injury,Library Clerk,32,0,09-07-2023
+291,Female,24,87628,1,Traumatic Brain Injury,Library Clerk,6,1,10-07-2023
+292,Male,24,73399,2,Physical Disability,Teacher,21,0,11-07-2023
+293,Male,58,39699,26,Cognitive Impairment,Animal Caretaker,87,0,12-07-2023
+294,Female,21,34926,1,Learning Disability,Construction Worker,45,0,13-07-2023
+295,Female,25,55526,2,Deaf/Hard of Hearing,Architect,87,0,14-07-2023
+296,Male,33,67311,12,Blind/Visually Impaired,Music Teacher,45,1,15-07-2023
+297,Male,49,87126,17,Learning Disability,Construction Worker,34,0,16-07-2023
+298,Female,21,99162,1,Intellectual/Developmental Disability,Warehouse Worker,26,0,17-07-2023
+299,Male,18,72133,0,Psychiatric Disability,Artist,84,1,18-07-2023
+300,Male,56,42113,30,Deaf/Hard of Hearing,Craftsperson,23,1,19-07-2023
+301,Male,41,49549,13,Psychiatric Disability,Artist,43,1,20-07-2023
+302,Female,24,55389,1,Intellectual/Developmental Disability,Food Service Worker,45,1,21-07-2023
+303,Male,34,55426,10,Traumatic Brain Injury,Library Clerk,43,0,22-07-2023
+304,Female,34,96196,12,Intellectual/Developmental Disability,Food Service Worker,56,0,23-07-2023
+305,Male,28,45645,4,Physical Disability,Tutor,54,0,24-07-2023
+306,Male,46,46362,18,Physical Disability,Teacher,34,1,25-07-2023
+307,Female,52,85982,22,Cognitive Impairment,Janitorial Services,32,0,26-07-2023
+308,Male,23,98269,1,Cognitive Impairment,Data Entry Clerk,43,1,27-07-2023
+309,Female,53,87625,30,Physical Disability,Teacher,56,1,28-07-2023
+310,Male,49,39360,21,Intellectual/Developmental Disability,Warehouse Worker,75,0,29-07-2023
+311,Male,56,76003,19,Psychiatric Disability,Artist,23,1,30-07-2023
+312,Female,50,44373,21,Traumatic Brain Injury,Library Clerk,45,1,31-07-2023
+313,Male,58,69310,26,Physical Disability,Telemarketer,64,0,01-08-2023
+314,Male,40,83425,16,Traumatic Brain Injury,Library Clerk,34,1,02-08-2023
+315,Female,46,85648,16,Blind/Visually Impaired,Music Teacher,22,0,03-08-2023
+316,Male,60,36985,30,Deaf/Hard of Hearing,Software Developer,25,0,04-08-2023
+317,Male,46,33919,18,Intellectual/Developmental Disability,Landscaper,13,1,05-08-2023
+318,Female,41,70203,22,Physical Disability,Teacher,45,1,06-08-2023
+319,Male,42,30820,19,Intellectual/Developmental Disability,Landscaper,34,1,07-08-2023
+320,Female,49,89259,17,Psychiatric Disability,Artist,26,0,08-08-2023
+321,Female,24,94697,2,Deaf/Hard of Hearing,Software Developer,11,1,09-08-2023
+322,Female,25,82787,3,Cognitive Impairment,Animal Caretaker,23,0,10-08-2023
+323,Male,19,37123,0,Blind/Visually Impaired,Music Teacher,43,0,11-08-2023
+324,Female,25,79893,2,Intellectual/Developmental Disability,Warehouse Worker,45,0,12-08-2023
+325,Female,39,98301,10,Physical Disability,Telemarketer,43,0,13-08-2023
+326,Male,23,37365,1,Learning Disability,Construction Worker,56,1,14-08-2023
+327,Female,18,79953,0,Cognitive Impairment,Janitorial Services,54,0,15-08-2023
+328,Female,43,83528,21,Deaf/Hard of Hearing,Architect,34,0,16-08-2023
+329,Male,27,95571,5,Learning Disability,Construction Worker,32,1,17-08-2023
+330,Male,48,96603,23,Deaf/Hard of Hearing,Accountant,43,1,18-08-2023
+331,Female,39,67419,12,Psychiatric Disability,Artist,56,1,19-08-2023
+332,Male,34,56648,13,Blind/Visually Impaired,Massage Therapist,75,1,20-08-2023
+333,Male,38,56649,20,Physical Disability,Telemarketer,23,0,21-08-2023
+334,Male,39,52587,10,Psychiatric Disability,Artist,45,0,22-08-2023
+335,Male,34,95093,10,Traumatic Brain Injury,Library Clerk,64,0,23-08-2023
+336,Female,27,98787,5,Cognitive Impairment,Manufacturing Worker,34,1,24-08-2023
+337,Female,39,85732,12,Intellectual/Developmental Disability,Landscaper,22,0,25-08-2023
+338,Female,28,74320,5,Cognitive Impairment,Manufacturing Worker,25,1,26-08-2023
+339,Female,18,89643,0,Psychiatric Disability,Artist,14,1,27-08-2023
+340,Male,18,46791,0,Intellectual/Developmental Disability,Food Service Worker,53,0,28-08-2023
+341,Female,23,94572,1,Traumatic Brain Injury,Library Clerk,24,1,29-08-2023
+342,Female,32,97048,8,Learning Disability,Construction Worker,54,1,30-08-2023
+343,Male,34,65297,9,Psychiatric Disability,Artist,23,0,31-08-2023
+344,Female,19,42147,0,Intellectual/Developmental Disability,Gardener,34,0,01-09-2023
+345,Male,59,67612,30,Deaf/Hard of Hearing,Architect,23,1,02-09-2023
+346,Male,22,56023,1,Psychiatric Disability,Artist,5,0,03-09-2023
+347,Female,31,31349,10,Blind/Visually Impaired,Customer Service Representative,56,1,04-09-2023
+348,Female,51,78701,30,Physical Disability,Tutor,43,1,05-09-2023
+349,Male,43,30034,20,Psychiatric Disability,Artist,13,1,06-09-2023
+350,Female,21,67559,2,Blind/Visually Impaired,Musician,25,0,07-09-2023
+351,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,08-09-2023
+352,Male,45,80829,19,Learning Disability,Construction Worker,45,1,09-09-2023
+353,Female,39,92787,22,Psychiatric Disability,Artist,34,0,10-09-2023
+354,Female,55,61667,38,Deaf/Hard of Hearing,Mechanic,26,1,11-09-2023
+355,Male,58,52209,21,Traumatic Brain Injury,Library Clerk,12,0,12-09-2023
+356,Male,45,50657,18,Psychiatric Disability,Artist,23,0,13-09-2023
+357,Female,34,72828,7,Intellectual/Developmental Disability,Food Service Worker,43,1,14-09-2023
+358,Male,39,34508,16,Traumatic Brain Injury,Library Clerk,45,1,15-09-2023
+359,Male,39,34421,12,Physical Disability,Telemarketer,43,1,16-09-2023
+360,Female,55,38333,17,Physical Disability,Teacher,56,0,17-09-2023
+361,Male,37,90537,9,Traumatic Brain Injury,Library Clerk,54,1,18-09-2023
+362,Female,44,64511,22,Psychiatric Disability,Artist,34,0,19-09-2023
+363,Male,54,88530,14,Traumatic Brain Injury,Library Clerk,32,0,20-09-2023
+364,Male,50,65674,13,Blind/Visually Impaired,Customer Service Representative,43,0,21-09-2023
+365,Male,21,37892,2,Physical Disability,Teacher,56,0,22-09-2023
+366,Male,29,34349,6,Traumatic Brain Injury,Library Clerk,75,1,23-09-2023
+367,Female,38,46983,14,Cognitive Impairment,Data Entry Clerk,23,0,24-09-2023
+368,Male,50,70331,18,Intellectual/Developmental Disability,Gardener,45,0,25-09-2023
+369,Female,23,61240,2,Psychiatric Disability,Artist,64,1,26-09-2023
+370,Female,19,38157,0,Intellectual/Developmental Disability,Landscaper,34,1,27-09-2023
+371,Male,43,86984,5,Intellectual/Developmental Disability,Warehouse Worker,22,1,28-09-2023
+372,Female,50,53632,29,Intellectual/Developmental Disability,Landscaper,25,1,29-09-2023
+373,Female,38,68109,8,Deaf/Hard of Hearing,Architect,14,0,30-09-2023
+374,Male,20,92588,0,Physical Disability,Tutor,53,0,01-10-2023
+375,Male,50,72356,25,Cognitive Impairment,Janitorial Services,24,0,02-10-2023
+376,Female,54,72439,31,Intellectual/Developmental Disability,Gardener,54,1,03-10-2023
+377,Male,38,52719,8,Deaf/Hard of Hearing,Craftsperson,23,0,04-10-2023
+378,Male,21,53599,1,Cognitive Impairment,Retail Worker,34,1,05-10-2023
+379,Female,51,53803,29,Deaf/Hard of Hearing,Artist,23,1,06-10-2023
+380,Male,20,65152,0,Psychiatric Disability,Artist,5,0,07-10-2023
+381,Male,51,55473,27,Deaf/Hard of Hearing,Artist,32,1,08-10-2023
+382,Male,19,72859,0,Blind/Visually Impaired,Massage Therapist,43,1,09-10-2023
+383,Male,34,56384,17,Traumatic Brain Injury,Library Clerk,13,0,10-10-2023
+384,Female,53,79106,26,Intellectual/Developmental Disability,Gardener,25,1,11-10-2023
+385,Female,59,66327,25,Blind/Visually Impaired,Massage Therapist,46,0,12-10-2023
+386,Female,55,39146,20,Intellectual/Developmental Disability,Landscaper,23,0,13-10-2023
+387,Female,40,71285,12,Traumatic Brain Injury,Library Clerk,1,1,14-10-2023
+388,Female,40,75003,15,Cognitive Impairment,Manufacturing Worker,21,1,15-10-2023
+389,Female,40,81358,12,Psychiatric Disability,Artist,13,1,16-10-2023
+390,Male,36,61636,10,Traumatic Brain Injury,Library Clerk,32,0,17-10-2023
+391,Female,24,87628,1,Traumatic Brain Injury,Library Clerk,6,1,18-10-2023
+392,Male,24,73399,2,Physical Disability,Teacher,21,0,19-10-2023
+393,Male,58,39699,26,Cognitive Impairment,Animal Caretaker,87,0,20-10-2023
+394,Female,21,34926,1,Learning Disability,Construction Worker,45,0,21-10-2023
+395,Female,25,55526,2,Deaf/Hard of Hearing,Architect,87,0,22-10-2023
+396,Male,33,67311,12,Blind/Visually Impaired,Music Teacher,45,1,23-10-2023
+397,Male,49,87126,17,Learning Disability,Construction Worker,34,0,24-10-2023
+398,Female,21,99162,1,Intellectual/Developmental Disability,Warehouse Worker,26,0,25-10-2023
+399,Male,18,72133,0,Psychiatric Disability,Artist,84,1,26-10-2023
+400,Male,56,42113,30,Deaf/Hard of Hearing,Craftsperson,23,1,27-10-2023
+401,Male,41,49549,13,Psychiatric Disability,Artist,43,1,28-10-2023
+402,Female,24,55389,1,Intellectual/Developmental Disability,Food Service Worker,45,1,29-10-2023
+403,Male,34,55426,10,Traumatic Brain Injury,Library Clerk,43,0,30-10-2023
+404,Female,34,96196,12,Intellectual/Developmental Disability,Food Service Worker,56,0,31-10-2023
+405,Male,28,45645,4,Physical Disability,Tutor,54,0,01-11-2023
+406,Male,46,46362,18,Physical Disability,Teacher,34,1,02-11-2023
+407,Female,52,85982,22,Cognitive Impairment,Janitorial Services,32,0,03-11-2023
+408,Male,23,98269,1,Cognitive Impairment,Data Entry Clerk,43,1,04-11-2023
+409,Female,53,87625,30,Physical Disability,Teacher,56,1,05-11-2023
+410,Male,49,39360,21,Intellectual/Developmental Disability,Warehouse Worker,75,0,06-11-2023
+411,Male,56,76003,19,Psychiatric Disability,Artist,23,1,07-11-2023
+412,Female,50,44373,21,Traumatic Brain Injury,Library Clerk,45,1,08-11-2023
+413,Male,58,69310,26,Physical Disability,Telemarketer,64,0,09-11-2023
+414,Male,40,83425,16,Traumatic Brain Injury,Library Clerk,34,1,10-11-2023
+415,Female,46,85648,16,Blind/Visually Impaired,Music Teacher,22,0,11-11-2023
+416,Male,60,36985,30,Deaf/Hard of Hearing,Software Developer,25,0,12-11-2023
+417,Male,46,33919,18,Intellectual/Developmental Disability,Landscaper,13,1,13-11-2023
+418,Female,41,70203,22,Physical Disability,Teacher,45,1,14-11-2023
+419,Male,42,30820,19,Intellectual/Developmental Disability,Landscaper,34,1,15-11-2023
+420,Female,49,89259,17,Psychiatric Disability,Artist,26,0,16-11-2023
+421,Female,24,94697,2,Deaf/Hard of Hearing,Software Developer,11,1,17-11-2023
+422,Female,25,82787,3,Cognitive Impairment,Animal Caretaker,23,0,18-11-2023
+423,Male,19,37123,0,Blind/Visually Impaired,Music Teacher,43,0,19-11-2023
+424,Female,25,79893,2,Intellectual/Developmental Disability,Warehouse Worker,45,0,20-11-2023
+425,Female,39,98301,10,Physical Disability,Telemarketer,43,0,21-11-2023
+426,Male,23,37365,1,Learning Disability,Construction Worker,56,1,22-11-2023
+427,Female,18,79953,0,Cognitive Impairment,Janitorial Services,54,0,23-11-2023
+428,Female,43,83528,21,Deaf/Hard of Hearing,Architect,34,0,24-11-2023
+429,Male,27,95571,5,Learning Disability,Construction Worker,32,1,25-11-2023
+430,Male,48,96603,23,Deaf/Hard of Hearing,Accountant,43,1,26-11-2023
+431,Female,39,67419,12,Psychiatric Disability,Artist,56,1,27-11-2023
+432,Male,34,56648,13,Blind/Visually Impaired,Massage Therapist,75,1,28-11-2023
+433,Male,38,56649,20,Physical Disability,Telemarketer,23,0,29-11-2023
+434,Male,39,52587,10,Psychiatric Disability,Artist,45,0,30-11-2023
+435,Male,34,95093,10,Traumatic Brain Injury,Library Clerk,64,0,01-12-2023
+436,Female,27,98787,5,Cognitive Impairment,Manufacturing Worker,34,1,02-12-2023
+437,Female,39,85732,12,Intellectual/Developmental Disability,Landscaper,22,0,03-12-2023
+438,Female,28,74320,5,Cognitive Impairment,Manufacturing Worker,25,1,04-12-2023
+439,Female,18,89643,0,Psychiatric Disability,Artist,14,1,05-12-2023
+440,Male,18,46791,0,Intellectual/Developmental Disability,Food Service Worker,53,0,06-12-2023
+441,Female,23,94572,1,Traumatic Brain Injury,Library Clerk,24,1,07-12-2023
+442,Female,32,97048,8,Learning Disability,Construction Worker,54,1,08-12-2023
+443,Male,34,65297,9,Psychiatric Disability,Artist,23,0,09-12-2023
+444,Female,19,42147,0,Intellectual/Developmental Disability,Gardener,34,0,10-12-2023
+445,Male,59,67612,30,Deaf/Hard of Hearing,Architect,23,1,11-12-2023
+446,Male,22,56023,1,Psychiatric Disability,Artist,5,0,12-12-2023
+447,Female,31,31349,10,Blind/Visually Impaired,Customer Service Representative,56,1,13-12-2023
+448,Female,51,78701,30,Physical Disability,Tutor,43,1,14-12-2023
+449,Male,43,30034,20,Psychiatric Disability,Artist,13,1,15-12-2023
+450,Female,21,67559,2,Blind/Visually Impaired,Musician,25,0,16-12-2023
+451,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,17-12-2023
+452,Male,45,80829,19,Learning Disability,Construction Worker,45,1,18-12-2023
+453,Female,39,92787,22,Psychiatric Disability,Artist,34,0,19-12-2023
+454,Female,55,61667,38,Deaf/Hard of Hearing,Mechanic,26,1,20-12-2023
+455,Male,58,52209,21,Traumatic Brain Injury,Library Clerk,12,0,21-12-2023
+456,Male,45,50657,18,Psychiatric Disability,Artist,23,0,22-12-2023
+457,Female,34,72828,7,Intellectual/Developmental Disability,Food Service Worker,43,1,23-12-2023
+458,Male,39,34508,16,Traumatic Brain Injury,Library Clerk,45,1,24-12-2023
+459,Male,39,34421,12,Physical Disability,Telemarketer,43,1,25-12-2023
+460,Female,55,38333,17,Physical Disability,Teacher,56,0,26-12-2023
+461,Male,37,90537,9,Traumatic Brain Injury,Library Clerk,54,1,27-12-2023
+462,Female,44,64511,22,Psychiatric Disability,Artist,34,0,28-12-2023
+463,Male,54,88530,14,Traumatic Brain Injury,Library Clerk,32,0,29-12-2023
+464,Male,50,65674,13,Blind/Visually Impaired,Customer Service Representative,43,0,31-12-2023
+465,Male,21,37892,2,Physical Disability,Teacher,56,0,01-01-2024
+466,Male,29,34349,6,Traumatic Brain Injury,Library Clerk,75,1,02-01-2024
+467,Female,38,46983,14,Cognitive Impairment,Data Entry Clerk,23,0,03-01-2024
+468,Male,50,70331,18,Intellectual/Developmental Disability,Gardener,45,0,04-01-2024
+469,Female,23,61240,2,Psychiatric Disability,Artist,64,1,05-01-2024
+470,Female,19,38157,0,Intellectual/Developmental Disability,Landscaper,34,1,06-01-2024
+471,Male,43,86984,5,Intellectual/Developmental Disability,Warehouse Worker,22,1,07-01-2024
+472,Female,50,53632,29,Intellectual/Developmental Disability,Landscaper,25,1,08-01-2024
+473,Female,38,68109,8,Deaf/Hard of Hearing,Architect,14,0,09-01-2024
+474,Male,20,92588,0,Physical Disability,Tutor,53,0,10-01-2024
+475,Male,50,72356,25,Cognitive Impairment,Janitorial Services,24,0,11-01-2024
+476,Female,54,72439,31,Intellectual/Developmental Disability,Gardener,54,1,12-01-2024
+477,Male,38,52719,8,Deaf/Hard of Hearing,Craftsperson,23,0,13-01-2024
+478,Male,21,53599,1,Cognitive Impairment,Retail Worker,34,1,14-01-2024
+479,Female,51,53803,29,Deaf/Hard of Hearing,Artist,23,1,15-01-2024
+480,Male,20,65152,0,Psychiatric Disability,Artist,5,0,16-01-2024
+481,Male,51,55473,27,Deaf/Hard of Hearing,Artist,32,1,17-01-2024
+482,Male,19,72859,0,Blind/Visually Impaired,Massage Therapist,43,1,18-01-2024
+483,Male,34,56384,17,Traumatic Brain Injury,Library Clerk,13,0,19-01-2024
+484,Female,53,79106,26,Intellectual/Developmental Disability,Gardener,25,1,20-01-2024
+485,Female,59,66327,25,Blind/Visually Impaired,Massage Therapist,46,0,21-01-2024
+486,Female,55,39146,20,Intellectual/Developmental Disability,Landscaper,23,0,22-01-2024
+487,Female,40,71285,12,Traumatic Brain Injury,Library Clerk,1,1,23-01-2024
+488,Female,40,75003,15,Cognitive Impairment,Manufacturing Worker,21,1,24-01-2024
+489,Female,40,81358,12,Psychiatric Disability,Artist,13,1,25-01-2024
+490,Male,36,61636,10,Traumatic Brain Injury,Library Clerk,32,0,26-01-2024
+491,Female,24,87628,1,Traumatic Brain Injury,Library Clerk,6,1,27-01-2024
+492,Male,24,73399,2,Physical Disability,Teacher,21,0,28-01-2024
+493,Male,58,39699,26,Cognitive Impairment,Animal Caretaker,87,0,29-01-2024
+494,Female,21,34926,1,Learning Disability,Construction Worker,45,0,30-01-2024
+495,Female,25,55526,2,Deaf/Hard of Hearing,Architect,87,0,31-01-2024
+496,Male,33,67311,12,Blind/Visually Impaired,Music Teacher,45,1,01-02-2024
+497,Male,49,87126,17,Learning Disability,Construction Worker,34,0,02-02-2024
+498,Female,21,99162,1,Intellectual/Developmental Disability,Warehouse Worker,26,0,03-02-2024
+499,Male,18,72133,0,Psychiatric Disability,Artist,84,1,04-02-2024
+500,Male,56,42113,30,Deaf/Hard of Hearing,Craftsperson,23,1,05-02-2024
+501,Male,19,56437,0,Traumatic Brain Injury,Library Clerk,23,1,06-02-2024
